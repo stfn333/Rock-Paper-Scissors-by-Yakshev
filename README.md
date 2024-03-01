@@ -1,2 +1,2 @@
-# Rock_Paper_Scissors_by_Yakshev
+# Rock, Paper, Scissors 🗿📜✂️
 This is a simple console game "Rock, Paper, Scissors"
